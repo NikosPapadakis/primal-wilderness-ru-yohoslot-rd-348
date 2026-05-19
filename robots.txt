@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://primal-wilderness-ru-yohoslot-348.onrender.com/sitemap.xml
+Sitemap: https://srv-d864at6q1p3s73bida70.onrender.com/sitemap.xml
